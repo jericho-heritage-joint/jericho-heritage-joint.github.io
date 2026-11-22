@@ -1,6 +1,7 @@
 OWNERDOMAIN=jericho-heritage-joint.github.io
 ironsrc.com, 697891, DIRECT
 unity.com, 13922887, DIRECT, 96cabb5fbdde37a7
+google.com, pub-8952429748261121, DIRECT, f08c47fec0942fa0
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 105536, RESELLER
 appads.in, 106246, RESELLER
